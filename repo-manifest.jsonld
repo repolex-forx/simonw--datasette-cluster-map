@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/simonw/datasette-cluster-map/commit/d6b2362cbd97bc6a26f2ffeb8da7cbf05f6751a7",
       "git:hexsha": "d6b2362cbd97bc6a26f2ffeb8da7cbf05f6751a7",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T16:34:46.853163+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/datasette-cluster-map/commit/5a5517c4e73a1aef2f849600ad071d2402005dbb",
